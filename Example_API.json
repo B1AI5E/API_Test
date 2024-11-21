@@ -1,0 +1,164 @@
+﻿{
+  "Households": [
+        {
+          "house type": "1 bed apartment",
+          "family size": "1 member",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "1800",
+            "electricitySpend": "170",
+            "foodSpend": "350"
+          }
+        },
+        {
+          "house type": "1 bed apartment",
+          "family size": "2 members",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "1900",
+            "electricitySpend": "200",
+            "foodSpend": "500"
+          }
+        },
+        {
+          "house type": "2 bed apartment",
+          "family size": "1 member",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2200",
+            "electricitySpend": "190",
+            "foodSpend": "400"
+          }
+        },
+        {
+          "house type": "2 bed apartment",
+          "family size": "2 members",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2300",
+            "electricitySpend": "220",
+            "foodSpend": "550"
+          }
+        },
+        {
+          "house type": "2 bed apartment",
+          "family size": "3 members",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2400",
+            "electricitySpend": "240",
+            "foodSpend": "700"
+          }
+        },
+        {
+          "house type": "2 bed apartment",
+          "family size": "4 members",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2500",
+            "electricitySpend": "260",
+            "foodSpend": "850"
+          }
+        },
+        {
+          "house type": "Detached house (1 bed)",
+          "family size": "1 member",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2000",
+            "electricitySpend": "180",
+            "foodSpend": "400"
+          }
+        },
+        {
+          "house type": "Detached house (1 bed)",
+          "family size": "2 members",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2100",
+            "electricitySpend": "210",
+            "foodSpend": "550"
+          }
+        },
+        {
+          "house type": "Detached house (2 bed)",
+          "family size": "1 member",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2300",
+            "electricitySpend": "200",
+            "foodSpend": "450"
+          }
+        },
+        {
+          "house type": "Detached house (2 bed)",
+          "family size": "2 members",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2400",
+            "electricitySpend": "230",
+            "foodSpend": "600"
+          }
+        },
+        {
+          "house type": "Detached house (2 bed)",
+          "family size": "3 members",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2500",
+            "electricitySpend": "250",
+            "foodSpend": "750"
+          }
+        },
+        {
+          "house type": "Detached house (2 bed)",
+          "family size": "4 members",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2600",
+            "electricitySpend": "270",
+            "foodSpend": "900"
+          }
+        },
+        {
+          "house type": "Semi detached house (1 bed)",
+          "family size": "1 member",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "1900",
+            "electricitySpend": "170",
+            "foodSpend": "350"
+          }
+        },
+        {
+          "house type": "Semi detached house (1 bed)",
+          "family size": "2 members",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "2000",
+            "electricitySpend": "200",
+            "foodSpend": "500"
+          }
+        },
+        {
+          "house type": "Attached house (1 bed)",
+          "family size": "1 member",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "1800",
+            "electricitySpend": "160",
+            "foodSpend": "300"
+          }
+        },
+        {
+          "house type": "Attached house (1 bed)",
+          "family size": "2 members",
+          "ownership": "rented",
+          "averageSpend": {
+            "housingSpend": "1900",
+            "electricitySpend": "190",
+            "foodSpend": "450"
+          }
+        }
+  ]
+}
