@@ -86,8 +86,8 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "2",
-      "family size": "4",
+      "bedrooms": 2,
+      "family size": 4,
       "ownership": "Owned",
       "averageSpend": {
         "housingSpend": 2000,
