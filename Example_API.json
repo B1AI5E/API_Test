@@ -2,7 +2,7 @@
   "Households": [
     {
       "house type": "Apartment",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -14,7 +14,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -26,7 +26,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -38,7 +38,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -50,7 +50,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -62,7 +62,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -74,7 +74,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -86,7 +86,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -98,7 +98,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -110,7 +110,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -122,7 +122,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -134,7 +134,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -146,7 +146,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -158,7 +158,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -170,7 +170,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -182,7 +182,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -194,7 +194,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "5",
       "ownership": "Owned",
       "averageSpend": {
@@ -206,7 +206,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "6",
       "ownership": "Owned",
       "averageSpend": {
@@ -218,7 +218,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -230,7 +230,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -242,7 +242,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -254,7 +254,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -266,7 +266,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "5",
       "ownership": "Rented",
       "averageSpend": {
@@ -278,7 +278,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "6",
       "ownership": "Rented",
       "averageSpend": {
@@ -290,7 +290,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -302,7 +302,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -314,7 +314,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -326,7 +326,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -338,7 +338,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "5",
       "ownership": "Owned",
       "averageSpend": {
@@ -350,7 +350,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "6",
       "ownership": "Owned",
       "averageSpend": {
@@ -362,7 +362,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "7",
       "ownership": "Owned",
       "averageSpend": {
@@ -374,7 +374,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "8",
       "ownership": "Owned",
       "averageSpend": {
@@ -386,7 +386,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -398,7 +398,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -410,7 +410,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -422,7 +422,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -434,7 +434,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "5",
       "ownership": "Rented",
       "averageSpend": {
@@ -446,7 +446,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "6",
       "ownership": "Rented",
       "averageSpend": {
@@ -458,7 +458,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "7",
       "ownership": "Rented",
       "averageSpend": {
@@ -470,7 +470,7 @@
     },
     {
       "house type": "Apartment",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "8",
       "ownership": "Rented",
       "averageSpend": {
@@ -482,7 +482,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -494,7 +494,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -506,7 +506,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -518,7 +518,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -530,7 +530,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -542,7 +542,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -554,7 +554,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -566,7 +566,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -578,7 +578,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -590,7 +590,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -602,7 +602,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -614,7 +614,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -626,7 +626,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -638,7 +638,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -650,7 +650,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -662,7 +662,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -674,7 +674,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "5",
       "ownership": "Owned",
       "averageSpend": {
@@ -686,7 +686,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "6",
       "ownership": "Owned",
       "averageSpend": {
@@ -698,7 +698,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -710,7 +710,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -722,7 +722,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -734,7 +734,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -746,7 +746,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "5",
       "ownership": "Rented",
       "averageSpend": {
@@ -758,7 +758,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "6",
       "ownership": "Rented",
       "averageSpend": {
@@ -770,7 +770,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -782,7 +782,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -794,7 +794,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -806,7 +806,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -818,7 +818,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "5",
       "ownership": "Owned",
       "averageSpend": {
@@ -830,7 +830,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "6",
       "ownership": "Owned",
       "averageSpend": {
@@ -842,7 +842,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "7",
       "ownership": "Owned",
       "averageSpend": {
@@ -854,7 +854,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "8",
       "ownership": "Owned",
       "averageSpend": {
@@ -866,7 +866,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -878,7 +878,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -890,7 +890,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -902,7 +902,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -914,7 +914,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "5",
       "ownership": "Rented",
       "averageSpend": {
@@ -926,7 +926,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "6",
       "ownership": "Rented",
       "averageSpend": {
@@ -938,7 +938,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "7",
       "ownership": "Rented",
       "averageSpend": {
@@ -950,7 +950,7 @@
     },
     {
       "house type": "Semi-detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "8",
       "ownership": "Rented",
       "averageSpend": {
@@ -962,7 +962,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -974,7 +974,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -986,7 +986,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -998,7 +998,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -1010,7 +1010,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -1022,7 +1022,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -1034,7 +1034,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -1046,7 +1046,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -1058,7 +1058,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -1070,7 +1070,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -1082,7 +1082,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -1094,7 +1094,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -1106,7 +1106,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -1118,7 +1118,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -1130,7 +1130,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -1142,7 +1142,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -1154,7 +1154,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "5",
       "ownership": "Owned",
       "averageSpend": {
@@ -1166,7 +1166,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "6",
       "ownership": "Owned",
       "averageSpend": {
@@ -1178,7 +1178,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -1190,7 +1190,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -1202,7 +1202,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -1214,7 +1214,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -1226,7 +1226,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "5",
       "ownership": "Rented",
       "averageSpend": {
@@ -1238,7 +1238,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "6",
       "ownership": "Rented",
       "averageSpend": {
@@ -1250,7 +1250,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -1262,7 +1262,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -1274,7 +1274,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -1286,7 +1286,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -1298,7 +1298,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "5",
       "ownership": "Owned",
       "averageSpend": {
@@ -1310,7 +1310,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "6",
       "ownership": "Owned",
       "averageSpend": {
@@ -1322,7 +1322,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "7",
       "ownership": "Owned",
       "averageSpend": {
@@ -1334,7 +1334,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "8",
       "ownership": "Owned",
       "averageSpend": {
@@ -1346,7 +1346,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -1358,7 +1358,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -1370,7 +1370,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -1382,7 +1382,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -1394,7 +1394,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "5",
       "ownership": "Rented",
       "averageSpend": {
@@ -1406,7 +1406,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "6",
       "ownership": "Rented",
       "averageSpend": {
@@ -1418,7 +1418,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "7",
       "ownership": "Rented",
       "averageSpend": {
@@ -1430,7 +1430,7 @@
     },
     {
       "house type": "Detached house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "8",
       "ownership": "Rented",
       "averageSpend": {
@@ -1442,7 +1442,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -1454,7 +1454,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -1466,7 +1466,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -1478,7 +1478,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "1"
+      "bedrooms": "1",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -1490,7 +1490,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -1502,7 +1502,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -1514,7 +1514,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -1526,7 +1526,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -1538,7 +1538,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -1550,7 +1550,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -1562,7 +1562,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -1574,7 +1574,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "2"
+      "bedrooms": "2",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -1586,7 +1586,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -1598,7 +1598,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -1610,7 +1610,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -1622,7 +1622,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -1634,7 +1634,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "5",
       "ownership": "Owned",
       "averageSpend": {
@@ -1646,7 +1646,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "6",
       "ownership": "Owned",
       "averageSpend": {
@@ -1658,7 +1658,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -1670,7 +1670,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -1682,7 +1682,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -1694,7 +1694,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -1706,7 +1706,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "5",
       "ownership": "Rented",
       "averageSpend": {
@@ -1718,7 +1718,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "3"
+      "bedrooms": "3",
       "family size": "6",
       "ownership": "Rented",
       "averageSpend": {
@@ -1730,7 +1730,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "1",
       "ownership": "Owned",
       "averageSpend": {
@@ -1742,7 +1742,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "2",
       "ownership": "Owned",
       "averageSpend": {
@@ -1754,7 +1754,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "3",
       "ownership": "Owned",
       "averageSpend": {
@@ -1766,7 +1766,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "4",
       "ownership": "Owned",
       "averageSpend": {
@@ -1778,7 +1778,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "5",
       "ownership": "Owned",
       "averageSpend": {
@@ -1790,7 +1790,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "6",
       "ownership": "Owned",
       "averageSpend": {
@@ -1802,7 +1802,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "7",
       "ownership": "Owned",
       "averageSpend": {
@@ -1814,7 +1814,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "8",
       "ownership": "Owned",
       "averageSpend": {
@@ -1826,7 +1826,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "1",
       "ownership": "Rented",
       "averageSpend": {
@@ -1838,7 +1838,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "2",
       "ownership": "Rented",
       "averageSpend": {
@@ -1850,7 +1850,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "3",
       "ownership": "Rented",
       "averageSpend": {
@@ -1862,7 +1862,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "4",
       "ownership": "Rented",
       "averageSpend": {
@@ -1874,7 +1874,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "5",
       "ownership": "Rented",
       "averageSpend": {
@@ -1886,7 +1886,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "6",
       "ownership": "Rented",
       "averageSpend": {
@@ -1898,7 +1898,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "7",
       "ownership": "Rented",
       "averageSpend": {
@@ -1910,7 +1910,7 @@
     },
     {
       "house type": "Terraced house",
-      "bedrooms": "4"
+      "bedrooms": "4",
       "family size": "8",
       "ownership": "Rented",
       "averageSpend": {
